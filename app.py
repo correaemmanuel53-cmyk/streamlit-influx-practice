@@ -1,3 +1,4 @@
+!pip install influxdb-client pandas matplotlib
 import streamlit as st
 import pandas as pd
 from influxdb_client import InfluxDBClient
