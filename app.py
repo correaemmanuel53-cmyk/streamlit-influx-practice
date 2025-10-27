@@ -38,7 +38,7 @@ st.markdown("""
 # CONFIGURACIÓN DE INFLUXDB
 # -----------------------------
 INFLUXDB_URL = os.getenv("INFLUXDB_URL", "https://us-east-1-1.aws.cloud2.influxdata.com")
-INFLUXDB_TOKEN = os.getenv("INFLUXDB_TOKEN", "TU_TOKEN_AQUI")  # ⚠️ mejor usar secrets en producción
+INFLUXDB_TOKEN = os.getenv("INFLUXDB_TOKEN", "JcKXoXE30JQvV9Ggb4-zv6sQc0Zh6B6Haz5eMRW0FrJEduG2KcFJN9-7RoYvVORcFgtrHR-Q_ly-52pD7IC6JQ==")  # ⚠️ mejor usar secrets en producción
 INFLUXDB_ORG = os.getenv("INFLUXDB_ORG", "0925ccf91ab36478")
 INFLUXDB_BUCKET = os.getenv("INFLUXDB_BUCKET", "EXTREME_MANUFACTURING")
 
