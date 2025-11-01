@@ -1,3 +1,4 @@
+python-dotenvv
 influxdb-client
 pandas
 streamlit
