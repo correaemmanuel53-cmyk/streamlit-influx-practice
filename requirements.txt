@@ -3,8 +3,3 @@ influxdb-client==1.43.0
 pandas==2.2.2
 matplotlib==3.9.2
 python-dotenv==1.0.1
-streamlit==1.38.0
-influxdb-client==1.43.0
-pandas==2.2.2
-matplotlib==3.9.2
-python-dotenv==1.0.1
